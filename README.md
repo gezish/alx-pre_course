@@ -1,3 +1,3 @@
 # alx-pre_course
 
-**This file is mandatory in all ALX School projects ** __Strong__
+**Strong**__This file is mandatory in all ALX School projects__
